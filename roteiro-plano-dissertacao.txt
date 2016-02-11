@@ -1,0 +1,11 @@
+1. Título Provisório e Área de Concentração
+2. Motivação (1-2 páginas)
+3. Estado da Arte (5-10 páginas) - apresenta as idéias/correntes e trabalhos principais da área até o momento
+4. Proposta de Trabalho (2-3 páginas)
+4.1. Definição
+4.2. Metodologia de Trabalho
+4.3. Construção do Protótipo (Se for o caso)
+4.4 Trabalhos já realizados.
+5. Cronograma de Atividades (com as atividades do ano inteiro,
+inclusive previsão da data da defesa)
+6. Referências Bibliográficas Preliminares
